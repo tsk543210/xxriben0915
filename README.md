@@ -16,4 +16,4 @@
 
 此外，平台的分类功能也十分重要。影片会根据类型、演员、剧情等不同因素进行细致分类，让用户可以快速找到自己喜欢的内容。站点通常会根据用户的观看历史提供个性化推荐，进一步提升用户体验。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/tsk543210/xxriben0915 )</span>
